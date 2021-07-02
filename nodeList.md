@@ -14,6 +14,6 @@ Returns: nothing
 Adds a new node with that value to the head of the list with an O(1) Time performance.
 
 ## solution , step 1 :
-![img](./assets/ch05a.png)
-![img](./assets/ch05b.png)
-![img](./assets/ch05c.png)
+![img](./assets/ch05aa.png)
+![img](./assets/ch05bb.png)
+![img](./assets/ch05cc.png)
