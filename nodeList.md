@@ -17,3 +17,11 @@ Adds a new node with that value to the head of the list with an O(1) Time perfor
 ![img](./assets/ch05aa.png)
 ![img](./assets/ch05bb.png)
 ![img](./assets/ch05cc.png)
+## Visual & Algorithm of Includes method:
+
+![img](./assets/ch05d.png)
+![img](./assets/ch05dd.png)
+
+
+## toString method :
+![img](./assets/ch05e.png)
