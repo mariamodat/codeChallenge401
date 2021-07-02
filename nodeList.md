@@ -15,6 +15,7 @@ Adds a new node with that value to the head of the list with an O(1) Time perfor
 
 ## solution , step 1 :
 ![img](./assets/ch05aa.png)
+## in this photo 22 in the beginneing is written by fault , it must be 30 .
 ![img](./assets/ch05bb.png)
 ![img](./assets/ch05cc.png)
 ## Visual & Algorithm of Includes method:
