@@ -18,3 +18,4 @@ out side the loop we will return -1 if the key was not found .
 # solution 
 ![img](./assets/lab03a.jpg)
 ![img](./assets/lab03b.jpg)
+![img](./assets/binaryCode.png)
