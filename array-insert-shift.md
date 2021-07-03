@@ -12,4 +12,4 @@ My apporach was to create a new array 1 element more than the length of the pass
 
 ## Code and Visual 
 ![img1](./assets/shiftarr22.png)
-![img1](./assets/shiftArr1.png)
+![img1](./assets/shiftcode.png)
