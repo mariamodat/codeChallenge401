@@ -10,6 +10,7 @@ Write a function called reverseArray which takes an array as an argument. Withou
 # Code 
 ![img](./assets/reverse.png)
 
+## Input and Outputs 
 
 
 ## Approach & Efficiency
