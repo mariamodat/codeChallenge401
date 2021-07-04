@@ -9,6 +9,7 @@ My apporach was to create a new array 1 element more than the length of the pass
 
 ## Solution : 
 ![img1](./assets/shiftArr.png)
+## Big O : space O(n)
 
 ## Code and Visual 
 ![img1](./assets/shiftarr22.png)
