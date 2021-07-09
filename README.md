@@ -10,6 +10,6 @@
 | Node List -single list | [Node List - single list ](nodeList.md)|
 | Node List -Extension Methods | [Node List - Extension Methods ](extensionNodeList.md)|
 | linked-list-kth | [linked-list-kth](kth.md) |
-|Merge two linked lists. | [merge.md]|
+|Merge two linked lists. | [merge](merge.md)|
 |  palindrome | [ palindrome](palindrome.md) |
 | Stack and a Queue Implementation | [Stack and a Queue Implementation](StacksAndQueues.md) |
