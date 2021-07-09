@@ -16,6 +16,7 @@ we will return the mid so it's the solution .
 out side the loop we will return -1 if the key was not found .
 
 # solution 
+## Big O : space O(log n)
 ![img](./assets/lab03a.jpg)
 ![img](./assets/lab03b.jpg)
 ![img](./assets/binaryCode.png)

@@ -5,6 +5,7 @@ we will be writing a code that will reverse the order of an array
 ## Whiteboard Process
 Problem Domain :
 Write a function called reverseArray which takes an array as an argument. Without utilizing any of the built-in methods available to your language, return a new array with elements from input array in reversed order.
+## Big O : space O(n)
 ![img](./assets/arrR.png)
 ![img](./assets/psedu.png)
 # Code 

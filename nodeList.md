@@ -19,6 +19,7 @@ Adds a new node with that value to the head of the list with an O(1) Time perfor
 ![img](./assets/ch05bb.png)
 ![img](./assets/ch05cc.png)
 ## Visual & Algorithm of Includes method:
+## Big O : space O(n)
 
 ![img](./assets/ch05d.png)
 ![img](./assets/ch05dd.png)
