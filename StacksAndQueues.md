@@ -56,3 +56,152 @@ Returns: Boolean indicating whether or not the queue is empty.
 ![img](assets/q1.png)
 ![img](assets/q2.png)
 
+
+class AppTest {
+
+  // Can successfully push onto a stack
+    @Test void pushTest() {
+
+      StackAsLinkedList stack= new StackAsLinkedList();
+      stack.push(1);
+
+assertEquals(1,stack.getTop().getData());
+
+    }
+    // Can successfully push multiple values onto a stack :
+
+  @Test void pushMultiTest() {
+
+    StackAsLinkedList stack= new StackAsLinkedList();
+    stack.push(2);
+    stack.push(1);
+
+    assertEquals(1,stack.getTop().getData());
+
+
+  }
+
+// Can successfully pop off the stack
+  @Test void popTest() {
+
+    StackAsLinkedList stack= new StackAsLinkedList();
+    stack.push(3);
+    stack.push(5);
+    assertEquals(5,stack.pop());
+
+  }
+
+  //Can successfully empty a stack after multiple pops
+  @Test void isEmptyTest() {
+
+    StackAsLinkedList stack= new StackAsLinkedList();
+    stack.push(3);
+    stack.push(5);
+    stack.pop();
+    stack.pop();
+    assertEquals(true,stack.isEmpty());
+
+  }
+
+// Can successfully peek the next item on the stack
+
+@Test void peekTest() {
+
+  StackAsLinkedList stack= new StackAsLinkedList();
+  stack.push(3);
+  stack.push(5);
+  assertEquals(5,stack.peek());
+
+}
+
+
+// Calling pop or peek on empty stack raises exception :
+@Test void popExceptionTest() {
+
+  StackAsLinkedList stack= new StackAsLinkedList();
+
+  Throwable exception = assertThrows(EmptyStackException.class, () -> stack.pop());
+
+}
+  @Test
+  void enqueueTest() {
+
+    Queue queue = new Queue();
+    queue.enqueue(1);
+
+    assertEquals(1, queue.getFront().getData());
+
+  }
+
+  // Can successfully enqueue multiple values into a queue
+  @Test
+  void enqueuehMultiTest() {
+
+    Queue queue = new Queue();
+    queue.enqueue(1);
+    queue.enqueue(8);
+    queue.enqueue(11);
+
+    assertEquals(1, queue.getFront().getData());
+  }
+
+  // Can successfully dequeue out of a queue the expected value
+
+  @Test
+  void dequeueTest() {
+
+    Queue queue = new Queue();
+    queue.enqueue(1);
+    queue.enqueue(8);
+    queue.enqueue(11);
+
+    assertEquals(1, queue.dequeue());
+  }
+
+  // Can successfully peek into a queue, seeing the expected value :
+  @Test
+  void peekQueueTest() {
+
+    Queue queue = new Queue();
+    queue.enqueue(1);
+    queue.enqueue(8);
+    queue.enqueue(11);
+
+    assertEquals(1, queue.peek());
+  }
+
+  // Can successfully empty a queue after multiple dequeues :
+  @Test
+  void multiDequeuesTest() {
+
+    Queue queue = new Queue();
+    queue.enqueue(1);
+    queue.enqueue(8);
+    queue.enqueue(11);
+    queue.dequeue();
+    queue.dequeue();
+    queue.dequeue();
+    assertEquals(true
+      , queue.isEmpty());
+  }
+
+  // Can successfully instantiate an empty queue
+  @Test
+  void instantiateTest() {
+
+    Queue queue = new Queue();
+    queue.enqueue(4);
+    queue.enqueue(6);
+
+    assertEquals("{4} ->{6} ->Null", queue.toString());
+  }
+
+  // Calling dequeue or peek on empty queue raises exception
+  @Test
+  void exceptionTest() {
+
+    Queue queue = new Queue();
+
+    Throwable exception = assertThrows(NoSuchElementException.class, () -> queue.peek());
+  }
+}
