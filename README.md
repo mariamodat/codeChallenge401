@@ -12,3 +12,4 @@
 | linked-list-kth | [linked-list-kth](kth.md) |
 |Merge two linked lists. | [merge.md]|
 |  palindrome | [ palindrome](palindrome.md) |
+| Stack and a Queue Implementation | [Stack and a Queue Implementation](StacksAndQueues.md) |
