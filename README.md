@@ -15,4 +15,5 @@
 | Stack and a Queue Implementation | [Stack and a Queue Implementation](StacksAndQueues.md) |
 | Implement a Queue using two Stacks | [Implement a Queue using two Stacks](peusodoQueue.md) |
 | First-in, First out Animal Shelter | [First-in, First out Animal Shelter](AnimalShelter.md) |
+| Bracket Validation | [Bracket Validation](bracketValidation.md)|
 
