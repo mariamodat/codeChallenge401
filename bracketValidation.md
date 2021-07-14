@@ -13,7 +13,9 @@ Curly Brackets : {}
 ## solution 
 ![img](assets/b1.png)
 ![img](assets/b2.png)
-
+## Edge Cases 
+* input chars without brackets
+* single oppenings
 ## Tests 
 class bracketTest {
 
