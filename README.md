@@ -16,4 +16,5 @@
 | Implement a Queue using two Stacks | [Implement a Queue using two Stacks](peusodoQueue.md) |
 | First-in, First out Animal Shelter | [First-in, First out Animal Shelter](AnimalShelter.md) |
 | Bracket Validation | [Bracket Validation](bracketValidation.md)|
+| Max Number of the Stack  | [Max Number of the Stack](getMaxNum.md)|
 
