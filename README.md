@@ -20,5 +20,6 @@
 |Binary Trees and Binary Search Trees  | [Binary Trees and Binary Search Trees](BinaryTrees.md)| 
 | Max Value of a Binary Tree | [Max Value of a Binary Tree](maxValOfBinaryTree.md)|
 | Breadth-First Traversal | [Breadth-First Traversal Tree](BreadthFirstTraverse.md)|
+|Sum of Odd Numbers in a BTree | Sum of Odd Numbers in a BTree](sumOdd.md)|
 
 
