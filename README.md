@@ -22,5 +22,6 @@
 | Breadth-First Traversal | [Breadth-First Traversal Tree](BreadthFirstTraverse.md)|
 |Sum of Odd Numbers in a BTree | [Sum of Odd Numbers in a BTree](sumOdd.md)|
 | Fizz Buzz Tree | [Fizz Buzz Tree](fizzBuzz.md)|
+| Sort Insertion  | [Sort Insertion ](sortIns.md)|
 
 
