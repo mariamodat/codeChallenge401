@@ -24,6 +24,21 @@ Binary Search Tree
 insertValue -> Time Complexity is O(n),  This was done via recursion.
 containsValue -> Time Complexity is O(log n).
 
+# API
+Binary Tree
+
+default and custom constructors
+getRoot(), setRoot(BinaryTreeNode node)
+ArrayList preOrder()
+ArrayList inOrder()
+ArrayList postOrder()
+Binary Search Tree
+
+# default and custom constructors
+getRoot(), setRoot(BinaryTreeNode node)
+void insertValue(int val)
+boolean containsValue(int val)
+
 ## Tests 
 
 class TreeBinaryTest {
