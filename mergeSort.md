@@ -106,3 +106,7 @@ public class MergeSort {
 
 ## Big(O)
 O(n) for space 
+O(nlogn ) for time
+
+## Egde Cases
+**empty array** 
