@@ -24,6 +24,6 @@
 | Fizz Buzz Tree | [Fizz Buzz Tree](fizzBuzz.md)|
 | Sort Insertion  | [Sort Insertion ](sortIns.md)|
 | Merge Sort  | [Merge Sort ](mergeSort.md)|
-| Quick Sort  | [Merge Sort ](quickSort.md)|
+| Quick Sort  | [Quick Sort ](quickSort.md)|
 
 

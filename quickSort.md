@@ -118,4 +118,4 @@ public class QuickSort {
 
 ## Big(O)
 O(1) for space 
-O(n^2) in worst case while O(nlogn) in best case 
+ O(nlogn) in worst case. 
