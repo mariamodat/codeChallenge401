@@ -25,5 +25,6 @@
 | Sort Insertion  | [Sort Insertion ](sortIns.md)|
 | Merge Sort  | [Merge Sort ](mergeSort.md)|
 | Quick Sort  | [Quick Sort ](quickSort.md)|
+| Merge Sort Code  | [Merge Sort Code Interview ](mergeInterview.md)|
 
 
