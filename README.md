@@ -27,5 +27,6 @@
 | Quick Sort  | [Quick Sort ](quickSort.md)|
 | Merge Sort Code  | [Merge Sort Code Interview ](mergeInterview.md)|
 | Hash Table | [Hash Table ](hashTable.md)|
+| Repeated word | [Repeated word ](repeatedWord.md)|
 
 
