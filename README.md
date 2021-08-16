@@ -28,5 +28,6 @@
 | Merge Sort Code  | [Merge Sort Code Interview ](mergeInterview.md)|
 | Hash Table | [Hash Table ](hashTable.md)|
 | Repeated word | [Repeated word ](repeatedWord.md)|
+| Tree Intersection | [Tree Intersection ](treeIntersection.md)|
 
 
