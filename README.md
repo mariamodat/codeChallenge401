@@ -29,5 +29,6 @@
 | Hash Table | [Hash Table ](hashTable.md)|
 | Repeated word | [Repeated word ](repeatedWord.md)|
 | Tree Intersection | [Tree Intersection ](treeIntersection.md)|
+| Left Join | [Left Join](leftJoin.md)|
 
 
