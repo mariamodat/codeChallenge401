@@ -174,6 +174,21 @@ private int size;
     // in case there was no key found : 
     return null;
   }
+
+  public boolean contains(K key)
+    throws Exception
+  {
+    try
+    {
+      get(key);
+      return true;
+    }
+    catch (Exception e)
+    {
+      return false;
+    }
+  }
+
 }
 
 
@@ -227,5 +242,15 @@ class HashTableTests{
     assertEquals("12",hashTable.get("Mariam"));
 
   }
+
+@Test
+  void doesContain() throws Exception {
+    HashTable< String,Integer> hashTable= new HashTable<>();
+    hashTable.add("Mariam" , 811);
+    hashTable.add("Sara" , 811);
+    hashTable.add("Yousef" , 811);
+    assertEquals(false,hashTable.contains("Yousef"));
+  }
+
 }
 
