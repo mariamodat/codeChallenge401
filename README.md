@@ -30,5 +30,6 @@
 | Repeated word | [Repeated word ](repeatedWord.md)|
 | Tree Intersection | [Tree Intersection ](treeIntersection.md)|
 | Left Join | [Left Join](leftJoin.md)|
+| Common Word | [Common Word](commonWord.md)|
 
 
