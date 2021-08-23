@@ -33,5 +33,6 @@
 | Common Word | [Common Word](commonWord.md)|
 | Graphs Implementation | [Graphs Implementation](graphs.md)|
 | Breadth First Travere graphs | [Breadth First Travere graphs](graphs.md)|
+| Graph Business Trip  | [Graph Business Trip](businessTrip.md)|
 
 

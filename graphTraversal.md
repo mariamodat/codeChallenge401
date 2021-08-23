@@ -42,6 +42,8 @@ Display the collection.
 ## Approach and Efficeincy 
 
 O(V+E) for time , where V is the num of vertices and E is num of edges.
+## Edge cases 
+* **only on node in the graph.** 
 
 
 ## Tests
