@@ -32,6 +32,6 @@
 | Left Join | [Left Join](leftJoin.md)|
 | Common Word | [Common Word](commonWord.md)|
 | Graphs Implementation | [Graphs Implementation](graphs.md)|
-| Travere graphs | [Travere graphs](graphs.md)|
+| Breadth First Travere graphs | [Breadth First Travere graphs](graphs.md)|
 
 
