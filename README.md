@@ -32,7 +32,7 @@
 | Left Join | [Left Join](leftJoin.md)|
 | Common Word | [Common Word](commonWord.md)|
 | Graphs Implementation | [Graphs Implementation](graphs.md)|
-| Breadth First Travere graphs | [Breadth First Travere graphs](graphs.md)|
+| Breadth First Travere graphs | [Breadth First Travere graphs](/home/mariam/codeChallenge401/graphTraversal.md)|
 | Graph Business Trip  | [Graph Business Trip](businessTrip.md)|
 | Depth First graphs traversal  | [Depth First graphs traversal  ](depthFirst.md)|
 
